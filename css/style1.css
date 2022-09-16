@@ -1,0 +1,160 @@
+body{
+    background-color: #f5f7fa;
+    font-family: 'Montserrat', sans-serif;
+}
+.main-container{
+ display: flex;
+ flex-direction: row-reverse;
+ width: 1200px;
+ background-color: #fff;
+ margin:40px auto;
+}
+.main-content{
+    padding: 50px 90px;
+    width: 100%;
+   
+}
+.description-of-project{
+    width: 520px;
+}
+.about-me-profession{
+    font-size: 14px;
+    font-weight: 700;
+    color:black;
+font-style: normal;
+line-height: 17px;;
+margin-bottom: 20px;
+}
+.my-name{
+    font-size: 40px;
+
+    color:black;
+font-style: normal;
+line-height: 30px;;
+margin-bottom: 25px;
+}
+.about-me-description{
+    width:500px;
+    font-size: 14px;
+
+    color:#201e1e;
+font-style: normal;
+font-weight: normal;
+line-height: 24px;;
+}
+
+.about-me-section{
+   margin-bottom: 20px;
+}
+.my-project-section{
+margin-top: 40px;
+}
+.my-project-list{
+padding:0 0 0 18px;
+}
+.my-work-experience{
+ margin-top: 50px;
+ margin-bottom: 50px;
+}
+.my-education{
+
+}
+.my-projects-item{
+    color:black;
+  font-weight: bold;
+}
+.my-project-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color:#595959;
+}
+.title-of-project{
+    margin-bottom: 0px;
+}
+.languages{
+    margin-top: 0px;
+
+    padding:0 0 0 19px;
+}
+.title-of-company{
+    color:chocolate;
+}
+.skills{
+line-height: 1px;;
+}
+
+.date{
+    line-height: 2px;;
+    color:rgb(112, 111, 111);
+
+}
+#title-of-company {
+    line-height: 1px;;
+}
+.main-content-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 15px;
+    color:#000;
+    margin-bottom: 10px;
+    }
+    .date2{
+        line-height: 4px;;
+        color:grey;
+    
+    }
+.my-project-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color:#595959;
+    margin-left: 5px;;
+}
+
+.sidebar-section{
+    padding-top:20px;
+    background-color: #1e2939;
+    width: 370px;
+    padding-bottom: 20px;;
+}
+.soft-skills-section,
+.contact-section,
+.tech-skills-section{
+    margin: 50px 0 0 40px;
+}
+.sidebar-title{
+    font-style:normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height:27px;
+    color:#fff;
+    margin-bottom: 10px;
+}
+.contacts-section-type{
+font-weight: bold;
+color:white;
+font-size:14px;
+line-height: 24px;
+margin-right: 5px;
+}
+.contacts-section-link{
+color:#979797;
+font-style: normal;
+font-weight: normal;
+font-size:14px;
+line-height: 24px;
+}
+.tech-skills-list{
+    padding: 0 0 0 17px;
+}
+.tech-skills-item{
+    color: #FB6D3A;
+    padding-top:5px ;
+}
+.tech-skills-item-text{
+    color:white;
+}
